@@ -13,5 +13,5 @@ cache:
 deploy:
   provider: heroku
   api_key: bdf38595-3ee3-469b-86ea-742185d6d279
-  app: ServerMire
+  app: servermire
   skip_cleanup: true
